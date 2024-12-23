@@ -1,0 +1,2 @@
+# kvantfizika
+Quantitative linguistics
